@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: MicroservicioTFG2
+server:
+  port: 6102
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:6100/eureka/

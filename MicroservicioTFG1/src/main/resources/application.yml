@@ -1,0 +1,11 @@
+info:
+  name: MicroservicioTFG1
+  description: MicroservicioTFG1 Server Application       
+  version: 1.0.0
+
+spring:
+  config:
+    name: MicroservicioTFG1
+  application:
+    name: MicroservicioTFG1
+  
